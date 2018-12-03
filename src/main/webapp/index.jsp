@@ -1,5 +1,3 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-</body>
-</html>
+<body bgcolor="red"/>
+<h1>WELCOME to DevOps</h1>
+
